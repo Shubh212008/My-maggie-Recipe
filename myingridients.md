@@ -1,0 +1,7 @@
+water
+maggie
+vegetables
+masala
+
+
+
